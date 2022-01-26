@@ -1,4 +1,3 @@
-package Frequency;
 import java.util.*;
 class frequency
 {
