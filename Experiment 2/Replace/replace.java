@@ -1,4 +1,3 @@
-package Replace;
 import java.util.*;
 public class replace 
 {
