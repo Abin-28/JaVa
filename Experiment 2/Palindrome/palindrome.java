@@ -1,4 +1,3 @@
-package Palindrome;
 import java.util.*;
 
 public class palindrome 
