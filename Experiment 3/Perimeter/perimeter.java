@@ -1,4 +1,3 @@
-package Perimeter;
 import java.util.*;
     
 class perimeters
