@@ -1,4 +1,3 @@
-package Student;
 import java.util.*;
 
 public class student 
