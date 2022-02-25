@@ -14,13 +14,13 @@ class File4
   			StringTokenizer t = new StringTokenizer(s);
   			while(t.hasMoreTokens())
   			{
-                s=t.nextToken();
+                                s=t.nextToken();
   				System.out.println(s);
   				int a=Integer.parseInt(s);
 				sum=sum+a;
   			}
 		}
-        fin.close();
+                fin.close();
 		System.out.println("Sum = "+sum);
 		}
 		catch(Exception e)
