@@ -45,14 +45,14 @@ class addm
 				r[i][j]=a[i][j]+b[i][j];
 			}
 		}
-		System.out.println("Resultant array\n");
+		System.out.print("Resultant array\n");
 		for(i=0;i<m;i++)
 	 	{
 			for(j=0;j<n;j++)
 			{
-				System.out.println(r[i][j]);
+				System.out.print(r[i][j]+" ");
 			}
-			System.out.println("\n");
+			System.out.println();
 		}
 	 }
 	}
