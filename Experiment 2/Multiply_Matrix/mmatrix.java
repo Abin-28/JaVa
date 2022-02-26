@@ -46,14 +46,14 @@ class mmatrix
 					r[i][j]+=a[i][k]*b[k][j];
 			}
 		}
-		System.out.println("Resultant array\n");
+		System.out.print("Resultant array\n");
 		for(i=0;i<m;i++)
 	 	{
 			for(j=0;j<n;j++)
 			{
-				System.out.println(r[i][j]+"\t");
+				System.out.print(r[i][j]+"\t");
 			}
-			System.out.println("\n");
+			System.out.println();
 		}
 	 }
 	}
